@@ -8,4 +8,4 @@ Project also contains following files
 1.	Pom.xml – for maven dependencies
 2.	resources – This folder contains chromedrivers
 
-In Git repo I have added out put of above files.
+In Git repo I have added output of above files.
